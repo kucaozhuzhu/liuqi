@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * 2 zookeeper分布式锁
  * 3 mybatis乐观锁（插件整合）
  * 4 dubbo整合
- * 5 待定12
+ * 5 待定123
  */
 @SpringBootApplication
 public class TyroneApplication {
